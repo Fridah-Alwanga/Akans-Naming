@@ -13,6 +13,8 @@ Javascript
 # Contact Information
 Incase of any feedback you can reach me though:
 fridahalwanga6@gmail.com
+
+
       0712296522
 
 
