@@ -24,7 +24,7 @@ fridahalwanga6@gmail.com
 # BDD
 The website will require a user to fill out information about his date of birth and the century he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
 # Live link
-fridah-alwanga.github.io/akans-naming/
+ https://fridah-alwanga.github.io/Akans-Naming/
 
 # copyright and license information
 This project has been licenced by MIT license board.
