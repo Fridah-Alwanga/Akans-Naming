@@ -8,9 +8,13 @@ Fridah Alwanga.
 Created Akan Naming project on my github account. Created a new repository of the portfolio project. Open a coding workspace, in Visual Studio Code using the terminal Add and push everything in the coding area on the github account of the Akan Naming project.
 # Technologies used
 HTML
+
 CSS 
-Javascript 
+
+Javascript
+
 Bootstrap
+
 google fonts
 # Contact Information
 Incase of any feedback you can reach me though:
