@@ -9,11 +9,18 @@ Created Akan Naming project on my github account. Created a new repository of th
 # Technologies used
 HTML
 CSS 
-Javascript
+Javascript 
+Bootstrap
+google fonts
 # Contact Information
 Incase of any feedback you can reach me though:
 fridahalwanga6@gmail.com
 
       0712296522
+# BDD
+The website will require a user to fill out information about his date of birth and the century he was was born. The application calculates the day of the week the user was born and outputs it. One will be required to choose his gender and then click on the submit button in order to generate his/her Akan name. The application matches the day of the week with a specific Akan Name and outputs it to the user with a personalized message.
+# copyright and license information
+This project has been licenced by MIT license board.
+
 
 
